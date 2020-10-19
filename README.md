@@ -1,4 +1,4 @@
-# My project with Teiko
+# Our amazing project by Teiko and Marc
 
 `some text`
 
