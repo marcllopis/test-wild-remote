@@ -1,4 +1,4 @@
-# This is a header
+# Our amazing project
 
 `some text`
 
